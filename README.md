@@ -1,7 +1,6 @@
-# Registration-App
+# Registration-App - Dynamic Web Project
 Registration WebApp using Servlet and JSP
 
-# Registration App - Dynamic Web Project
 
 ![Registration App](servletcontent.png)
 
@@ -95,7 +94,6 @@ The **Registration App** is a dynamic web application built using **Servlets** a
 - **JSP (Java Server Pages)**
 - **MySQL Database**
 - **Apache Tomcat Server**
-- **HTML & CSS**
 
 ---
 
@@ -114,9 +112,11 @@ Contributions are welcome! If you'd like to contribute, fork the repository, mak
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+## Contributors
+- **Rohit Dhumal**
+  - Role: Developer
+  - Contact: rohitdhumal248@gmail.com
+  - If you enjoyed this project, feel free to connect with me on [GitHub](https://github.com/rohitdhumal-24)!
 
 ---
 
